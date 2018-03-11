@@ -2,4 +2,8 @@
 
 Studying the efficacy of the LASSO in recovering the true support of the coefficient vector beta.
 
-This folder contains the code written to generate the data and figures in the accompanying report.
+# Contents
+
+* Performance of the LASSO - Kwa.pdf - report on findings
+* LASSO_efficiency.R - code used to generate data and figures, conduct analysis
+* Convexity Homework 2017.pdf - homework details
