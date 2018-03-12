@@ -1,3 +1,3 @@
-# Homework Assignments and Projects
+# Projects
 
-This folder contains various projects and homework assignments completed for various classes ranging from Convex Optimization to Algorithms.
+This folder contains various projects completed for classes and others in my spare time ranging from Convex Optimization to Algorithms.
