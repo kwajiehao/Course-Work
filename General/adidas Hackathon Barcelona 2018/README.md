@@ -8,8 +8,8 @@ Our idea is to generate 3D body scans to obtain exact measurements of consumers 
 
 This folder contains the following items from my team's participation at the 2018 adidas Hackathon: "Change the way we shop" in Barcelona.
 
-*dataset.csv - raw dataset of body measurements and simulated clothese measurements 
-*dataset_sizes.csv - cleaned dataset
-*size_prediction.R - contains multinomial logistic regression analysis for size prediction
-*BGSE_presentation.pptx - powerpoint presentation
-*3d_model.avi - video of 3d model
+- dataset.csv - raw dataset of body measurements and simulated clothese measurements 
+- dataset_sizes.csv - cleaned dataset
+- size_prediction.R - contains multinomial logistic regression analysis for size prediction
+- BGSE_presentation.pptx - powerpoint presentation
+- 3d_model.avi - video of 3d model
